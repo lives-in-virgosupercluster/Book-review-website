@@ -1,0 +1,55 @@
+*{
+    padding:0px;
+    margin:0px;
+    color:white;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+#newimg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:20px;
+    margin-bottom: 20px;
+    border: 2px solid blue;
+}
+.bmk{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top:30px;
+}
+.record{
+    height: 10rem;
+    width: 15rem;
+    font-size: 1.3rem;
+}
+p{
+    font-size: 1.2rem;
+}
+.btn{
+    background-color: blue;
+    padding:10px;
+    border:5px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    margin:10px;
+}
+#rev{
+    font-size: 1.3rem;
+}
+.btn:hover{
+    padding:20px;
+}
+.para{
+    margin: 0 auto;
+    text-align: center;
+    width: 50rem;
+    font-size:1.2rem;
+}

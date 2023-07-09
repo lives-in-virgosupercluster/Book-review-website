@@ -1,0 +1,39 @@
+
+label{
+    display: flex;
+    justify-content: space-between;
+    width:400px;
+    font-size: 1.2rem;
+}
+input{
+    flex:0 0 200px;
+    margin-left: 10px;
+    font-size: 1.2rem;
+}
+.inputform{
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 25rem;
+}
+body{
+    background-color: black;
+    color:white;
+}
+.btn{
+    background-color: blue;
+    padding:10px;
+    border-radius:5px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color:white;
+}
+.btn:hover{
+    padding:15px;
+}
+fieldset{
+    border:2px solid blue;
+    border-radius: 5px;
+}
