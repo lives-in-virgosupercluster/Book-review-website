@@ -24,5 +24,5 @@ This is a Book Review Website project designed to help users discover, review, a
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/book-review-website.git
+   git clone https://github.com/lives-in-virgosupercluster/Book-review-website.git
    cd book-review-website
